@@ -1,6 +1,5 @@
 {
 "apiUrl": "<https://api.techstart.com>",
 "maxRetries": 3,
-"timeout": 5000,
-"Gayname": "gil dahan"
+"timeout": 5000
 }
