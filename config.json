@@ -1,6 +1,6 @@
 {
 "apiUrl": "<https://api.techstart.com>",
-"maxRetries": 2,
+"maxRetries": 5,
 "timeout": 5000,
 "endpoints":{
 	"products": "/api/v1/products",
